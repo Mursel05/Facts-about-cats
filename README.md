@@ -1,2 +1,5 @@
 # Facts-about-cats
- You can look new facts and previous fact and you can clear history to press the secret button in the upper left part of the screen
+After you click start button, you can look new facts and previous fact about cats
+
+
+![image](https://github.com/Mursel05/Facts-about-cats/assets/134983247/6787eb33-983d-497e-9cb5-60af912d18f8)
